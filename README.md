@@ -1,9 +1,9 @@
 # Learning Python
 
 Contents:
--Working with Numeric Types__
--Programming with Graphics__
--Strings and Files__
--Defining and Using Functions__
--If Statements and For Loops__
--Using Booleans and While Loops__
+-Working with Numeric Types  
+-Programming with Graphics  
+-Strings and Files  
+-Defining and Using Functions  
+-If Statements and For Loops  
+-Using Booleans and While Loops  
